@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VASU-MOG
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in logics and algorithms
+- 🌱 I’m currently pursuing electrical & electronics degree
 - 💞️ I’m looking to collaborate to enchance our skills
 - 📫 How to reach me :- mail me to my gmail Id.
 
