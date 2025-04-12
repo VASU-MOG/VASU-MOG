@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VASU-MOG
 - 👀 I’m interested in logics and algorithms
-- 🌱 I’m currently pursuing electrical & electronics degree
-- 💞️ I’m looking to collaborate to enchance our skills
+- 🌱 I’m currently pursuing Electrical & Electronics degree
+- 💞️ I’m looking to collaborate to enchance my skills
 - 📫 How to reach me :- mail me to my gmail Id.
 
 <!---
